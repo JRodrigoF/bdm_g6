@@ -11,7 +11,7 @@ Authors:
 
 Projects Overview
 
-All projects were developed using Apache Spark as the distributed processing engine and PySpark as the API to Apache Spark.
+All projects were developed using [Apache Spark](https://en.wikipedia.org/wiki/Apache_Spark) as the distributed processing engine and PySpark as the API to Apache Spark. Ipynb notebooks were writen originally and are better visualized on [Databriks](https://community.cloud.databricks.com)
 
 - Data Warehouse
   - Processing of scientific publications dataset in JSON format in order to populate a Data Warehouse (Kimball schema)
